@@ -3,19 +3,19 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "Kiko Plus"
+name:               "vickydasta"
 
 
 
 author:
-  name:             your-name
-  facebook:         your-id
-  twitter:          your-id
-  github:           your-id
-  linkedin:         your-id
-  medium:           your-id
-  tumblr:           your-id
-  email:            your-id@your-email.com
+  name:             vickydasta
+  facebook:         vickyvernandodasta
+  twitter:          vickydasta
+  github:           vickydasta
+  linkedin:         vickydasta
+  medium:           vickydasta
+  tumblr:           vickydasta
+  email:            vickydasta@gmail.com
 
 # Google-analytics
 google-analytics:
@@ -23,12 +23,12 @@ google-analytics:
 
 # Disqus
 disqus:
-  id:               "AWEEKJ"
+  id:               "your-id"
 
 # URL
-url:                "https://AWEEKJ.github.io"
-
-baseurl:            "/Kiko-plus"
+#url:                "https://AWEEKJ.github.io" # the base hostname & protocol for your site
+url:                "http://localhost:4000" # use this url when develop
+baseurl:            "" # the subpath of your site, e.g. /blog
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -36,7 +36,7 @@ timezone:           Asia/Seoul
 permalink:          /:year-:month-:day/:title/
 
 # Pagination
-paginate:           5
+paginate:           8
 paginate_path:      /page:num/
 
 # Markdown
