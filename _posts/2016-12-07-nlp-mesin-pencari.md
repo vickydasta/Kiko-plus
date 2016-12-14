@@ -26,5 +26,10 @@ ini dikarenakan klausa LIKE hanya berfungsi sebagai pencocok pola. kelemahan dar
 singkatnya, metode pencarian dokumen dengan cara ini gagal.
 
 
-pendekatan lain selain menggunakan cara diatas yaitu pemrosesan bahasa alami (natural language processing).
-misal kita ingin mengetahui kecocokan query q dengan kalimat k.
+selain menggunakan klausa LIKE, kita sebenarnya bisa menggunakan teknik informatin retreival dan natural language processing pada mesin pencari.
+misal kita ingin mengetahui kecocokan query q dengan kalimat k. kita ingin mengetahui seberapa cocok
+teks "ini ibu budi" dengan "ini budi".
+
+---
+
+tulisan ini belum selesai :)
