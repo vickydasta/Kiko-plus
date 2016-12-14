@@ -3,8 +3,7 @@ layout: post
 title: "nlp pada mesin pencari"
 description: ""
 date: 2016-12-07
-tags: []
-comments: true
+tags: [nlp, search engine]
 share: true
 ---
 

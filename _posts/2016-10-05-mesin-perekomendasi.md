@@ -2,7 +2,7 @@
 layout: post
 title: "catatan mesin perekomendasi"
 description: "penerapan konsep words of mouth pada mesin perekomendasi"
-date: 2012-05-22
+date: 2016-10-02
 tags: [machine learning]
 comments: false
 share: true
