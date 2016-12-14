@@ -27,8 +27,7 @@ singkatnya, metode pencarian dokumen dengan cara ini gagal.
 
 
 selain menggunakan klausa LIKE, kita sebenarnya bisa menggunakan teknik informatin retreival dan natural language processing pada mesin pencari.
-misal kita ingin mengetahui kecocokan query q dengan kalimat k. kita ingin mengetahui seberapa cocok
-teks "ini ibu budi" dengan "ini budi".
+misal kita ingin mengetahui kecocokan query q dengan kalimat k. kita ingin mengetahui kecocokan antara "ini ibu budi" dengan "ini budi".
 
 ---
 
