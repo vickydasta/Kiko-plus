@@ -35,9 +35,6 @@ timezone:           Asia/Jakarta
 
 permalink:          /:title
 
-permalink:          /:year-:month-:day/:title/
-
-
 # Pagination
 paginate:           8
 paginate_path:      /page:num/
