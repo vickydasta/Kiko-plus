@@ -55,11 +55,9 @@ nav:
     url:            "/archive"
   - name:           "tags"
     url:            "/tags"
-<<<<<<< HEAD
-=======
+
   - name:           "github"
     url:            "https://github.com/vickydasta"
->>>>>>> gh-pages
 
 
 
