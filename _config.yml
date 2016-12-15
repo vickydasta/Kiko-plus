@@ -32,11 +32,11 @@ baseurl:            "" # the subpath of your site, e.g. /blog
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:           Asia/Jakarta
-<<<<<<< HEAD
+
 permalink:          /:title
-=======
+
 permalink:          /:year-:month-:day/:title/
->>>>>>> gh-pages
+
 
 # Pagination
 paginate:           8
