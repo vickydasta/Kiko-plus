@@ -1,0 +1,17 @@
+body {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: none;
+}
+
+.white {
+	color: #ffffff !important;
+}
+
+.full {
+  background-color: #F4D03D;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
