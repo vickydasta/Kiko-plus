@@ -2,8 +2,8 @@ nav{
   padding-bottom: 40px;
 }
 
-.mark{
-  color: ##0f9187;
+mark.head{
+  background-color: #0f9187;
 }
 
 
@@ -11,9 +11,10 @@ h2.name{
   font-weight: bolder;
 }
 
-h4.text{
-  font-weight: bold;
+h3.school {
+  font-weight: bolder;
 }
+
 
 a{
   color: #2ebda4;
